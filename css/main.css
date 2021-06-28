@@ -62,6 +62,7 @@ html{
 }
 
 body{
+  font-family: "Futura PT, san serif";
   display: flex;
   flex-direction: column;
   height: 100%;
